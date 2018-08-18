@@ -4,4 +4,4 @@
 
 ## 실행방법
 
-브라우저에서 baseball.html 을 실행
+https://sejungkim.github.io/baseball-game/baseball.html
